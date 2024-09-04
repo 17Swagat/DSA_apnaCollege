@@ -1,4 +1,9 @@
+// Flowcharts:
+// * "Learn the use of the shapes."
 
-int main(){
-    return 0;
-}
+// PSEUDO-CODE:
+
+// * Area of square
+// * Minimum no.s
+// * no. even or odd check
+// * Is no. prime or not?
